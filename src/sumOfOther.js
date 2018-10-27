@@ -1,5 +1,3 @@
-
-      
       function sumOfOther(arr) {
         let answer = [],
         main;
