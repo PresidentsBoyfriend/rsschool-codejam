@@ -1,4 +1,6 @@
-      function sumOfOther(arr) {
+
+      
+      module.exports = function sumOfOther(arr) {
         let answer = [],
         main;
         for (let i = 0; i<arr.length; i++) {
