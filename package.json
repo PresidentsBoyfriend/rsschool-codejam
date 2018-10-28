@@ -1,0 +1,22 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "RS School CodeJam - sumOfOther.js",
+  "main": "sumOfOther.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PresidentsBoyfriend/rsschool-codejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PresidentsBoyfriend/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/PresidentsBoyfriend/rsschool-codejam#readme",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
+}
