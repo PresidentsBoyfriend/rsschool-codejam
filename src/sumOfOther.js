@@ -1,5 +1,3 @@
-
-      
       module.exports = function sumOfOther(arr) {
         let answer = [],
         main;
